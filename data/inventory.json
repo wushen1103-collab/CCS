@@ -1,0 +1,82 @@
+[
+  {
+    "path": "data/frozen/baseline_predictions.csv.gz",
+    "bytes": 127165,
+    "sha256": "a144bd5e8038b3dd4cca975a6e578dd6335f1f308ed57b1325803c69738646c3"
+  },
+  {
+    "path": "data/frozen/external_components.csv.gz",
+    "bytes": 36376,
+    "sha256": "179bc206e02fdc457d3e7bb0eabaaa294b8929d52b7cfa7e5d8b1ee4fa87b440"
+  },
+  {
+    "path": "data/frozen/frozen_weights.csv",
+    "bytes": 473,
+    "sha256": "91d0c26950f2ab3d8caec5f46e5244e42123f4d339856f3c350167418f6949dd"
+  },
+  {
+    "path": "data/frozen/internal_only_state_predictions.csv.gz",
+    "bytes": 36642,
+    "sha256": "48ea73220d23add021c7b010cb5fcd7f362ed62a4cbef2bf6b71e6e3795deaf4"
+  },
+  {
+    "path": "data/frozen/main_components.csv.gz",
+    "bytes": 107934,
+    "sha256": "c3ae83c65184a13dd06d9faadb60c1a57437e587fdc237e59d41e04f021fa677"
+  },
+  {
+    "path": "data/frozen/pair_predictions.csv.gz",
+    "bytes": 212311,
+    "sha256": "22a0a99f686cf565704574b394ea12da371b21d232d0b7404dc55b0dd96dc723"
+  },
+  {
+    "path": "data/frozen/state_predictions.csv.gz",
+    "bytes": 151582,
+    "sha256": "b1c8d8ac66eab4e8651b1aef6960c6db5b897639c3fd31ac1828ad70e783a8cf"
+  },
+  {
+    "path": "data/reference/bootstrap_effects.csv",
+    "bytes": 4191,
+    "sha256": "3ab3ba9ac1f4e645aa8c1b204a6f1ca28f71862f226b9141f52f51d0b4c4a3a2"
+  },
+  {
+    "path": "data/reference/internal_weights.csv",
+    "bytes": 805,
+    "sha256": "9de85b03cc1078d73e2ca0d444fd45a4fc66e64acff00ddc647ffa3bf62f27fc"
+  },
+  {
+    "path": "data/reference/main_results.csv",
+    "bytes": 3821,
+    "sha256": "d53ea962009cc4f4bc5b12b703cc4fa54792ed752518873e07a08d9179a0aeeb"
+  },
+  {
+    "path": "data/reference/scenario_results.csv",
+    "bytes": 41519,
+    "sha256": "f5cad16c9cff684eee5a53e91f0fcc38aff51c2f7eefbdb1bb6ee112194cef0b"
+  },
+  {
+    "path": "data/reference/selective_risk_seed_raw.csv",
+    "bytes": 11614,
+    "sha256": "729baa3eb6e64808ac919d477866b8fd4c8e8a461f1db845cc8bdd3e23e96c22"
+  },
+  {
+    "path": "data/reference/selective_risk_summary.csv",
+    "bytes": 3965,
+    "sha256": "efde47b0f1479d923df7f52b9d916a2c8ac13d491d0299c7b78d2c284eef1950"
+  },
+  {
+    "path": "data/reference/source_overlap.csv",
+    "bytes": 1048,
+    "sha256": "d349c6141f7bd059175c23a76c9d2903ddd72b17b416239ddd67c2c7c5b90e48"
+  },
+  {
+    "path": "data/sources.json",
+    "bytes": 1777,
+    "sha256": "c4c77d1a39a2c662652d85034c6d8d11a264c5313e537af1213f71374a167639"
+  },
+  {
+    "path": "data/splits/split_manifest.csv",
+    "bytes": 116141,
+    "sha256": "f8fd0ffa3a743e217d0ae1d67dc2d8d2df3548d8779297ddf3ad36138b5ad4df"
+  }
+]

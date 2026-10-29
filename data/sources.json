@@ -1,0 +1,55 @@
+[
+  {
+    "resource": "Tautobase",
+    "commit": "cd9590aa3032a4711926283d6e7e26b405014b2e",
+    "url": "https://github.com/WahlOya/Tautobase.git",
+    "files": [
+      {
+        "path": "Tautobase_SMIRKS.txt",
+        "bytes": 359422,
+        "sha256": "bc49d1c912f232ac0199970dd58e38a7b0e03b2531f5f3a166938675521f89ad"
+      }
+    ]
+  },
+  {
+    "resource": "Tautomer-Predictor-src",
+    "commit": null,
+    "url": "https://github.com/xiaolinpan/Tautomer-Predictor",
+    "files": [
+      {
+        "path": "LICENSE",
+        "bytes": 1067,
+        "sha256": "a483739c881d0e2a6502eaa85f6a4cd560d1ffb8cba2926c3826c03d6030a86e"
+      },
+      {
+        "path": "checkpoints/best_model_state_dict.pt",
+        "bytes": 67378792,
+        "sha256": "54e9cc38368581dd9435d5a0004a50dc3aef5535890dd56ebe3beece6d0d32f9"
+      }
+    ]
+  },
+  {
+    "resource": "sPhysNet-Taut-src",
+    "commit": null,
+    "url": "https://github.com/xiaolinpan/sPhysNet-Taut",
+    "files": [
+      {
+        "path": "LICENSE.txt",
+        "bytes": 15136,
+        "sha256": "e4eeb527170ffb2fed39af7d7961d49b3e1b067fec330640c269cfd2c67d5804"
+      },
+      {
+        "path": "exp_data/results_of_100_tautomers_set.csv",
+        "bytes": 31924,
+        "sha256": "8ef33d783d5b68d9703548ef27362ed85688d6884ff0ca2f977f223353357c5e"
+      }
+    ]
+  },
+  {
+    "resource": "NCI Tautomer Database",
+    "url": "https://cactus.nci.nih.gov/download/tautomer/Tautomer_database_release_3a.xlsx",
+    "sha256": "b3ed2258aac60f2ef5a43f16b37bbf9cf0c089bc4e8015342c7164ecd59e077c",
+    "bytes": 1826163,
+    "license_note": "No explicit redistribution license was located on the download page; retain source attribution and verify terms before redistribution."
+  }
+]

@@ -1,0 +1,8 @@
+checkpoint,source_role,source_rows,exact_test_state_rows,exact_test_families,connectivity_test_families,exact_pair_hits,audit_status,clean_subset_action
+Tautomer-Predictor,CSD_training_structures,,,,,,not_fully_auditable,qualify checkpoint provenance; cannot certify CSD structure-level non-overlap
+Tautomer-Predictor,validation_model_selection,1539.0,6.0,3.0,3.0,0.0,audited_local_release_artifact,exclude matching family
+Tautomer-Predictor,released_published_evaluation_sets,48899.0,14.0,7.0,7.0,0.0,audited_local_release_artifact,exclude matching family
+sPhysNet-Taut,fine_tune_train,306.0,3.0,2.0,2.0,1.0,audited_local_release_artifact,exclude matching family
+sPhysNet-Taut,fine_tune_validation_model_selection,77.0,1.0,1.0,1.0,0.0,audited_local_release_artifact,exclude matching family
+sPhysNet-Taut,published_preference_evaluation,364.0,100.0,50.0,50.0,50.0,audited_local_release_artifact,exclude matching family
+sPhysNet-Taut,published_100_pair_evaluation,100.0,0.0,0.0,0.0,0.0,audited_local_release_artifact,exclude matching family

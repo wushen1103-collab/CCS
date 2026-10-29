@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "condchemsymm"
+version = "0.1.0"
+description = "Provenance-aware pair certification for tautomer preference prediction"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = [
+  "numpy>=1.26,<3",
+  "pandas>=2.2,<3",
+  "scipy>=1.13,<2",
+  "scikit-learn>=1.5,<2",
+]
+
+[project.optional-dependencies]
+train = ["torch>=2.4", "rdkit>=2022.9", "pyarrow>=17", "tqdm>=4.66", "openpyxl>=3.1", "pyyaml>=6", "tabulate>=0.9"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
